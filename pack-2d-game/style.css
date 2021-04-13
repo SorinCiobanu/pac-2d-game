@@ -18,13 +18,13 @@ body{
 }
 
 .gameMap .pac {
-    background-image: url(../img/Cute-Ball-Games-icon.png);
+    background-image: url(img/Cute-Ball-Games-icon.png);
 }
 
 .gameMap .coin {
-    background-image: url(../img/Coin-icon.png);
+    background-image: url(img/Coin-icon.png);
 }
 
 .gameMap .bomb {
-    background-image: url(../img/Actions-edit-bomb-icon.png);
+    background-image: url(img/Actions-edit-bomb-icon.png);
 }
